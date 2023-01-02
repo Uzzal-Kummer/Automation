@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T20:59:54 BDT" name="Default suite" finished-at="2022-12-30T21:00:05 BDT" duration-ms="10661">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T20:59:54 BDT" name="Default test" finished-at="2022-12-30T21:00:05 BDT" duration-ms="10661">
+      <class name="BD.com.Java_Automation.IFrameHandle">
+        <test-method is-config="true" signature="Start()[pri:0, instance:BD.com.Java_Automation.IFrameHandle@15bb5034]" started-at="2022-12-30T20:59:51 BDT" name="Start" finished-at="2022-12-30T20:59:54 BDT" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="openBrowser()[pri:0, instance:BD.com.Java_Automation.IFrameHandle@15bb5034]" started-at="2022-12-30T20:59:54 BDT" name="openBrowser" finished-at="2022-12-30T21:00:01 BDT" duration-ms="6341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="handleIFrame()[pri:1, instance:BD.com.Java_Automation.IFrameHandle@15bb5034]" started-at="2022-12-30T21:00:01 BDT" name="handleIFrame" finished-at="2022-12-30T21:00:05 BDT" duration-ms="4268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleIFrame -->
+        <test-method is-config="true" signature="end()[pri:0, instance:BD.com.Java_Automation.IFrameHandle@15bb5034]" started-at="2022-12-30T21:00:05 BDT" name="end" finished-at="2022-12-30T21:00:05 BDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- BD.com.Java_Automation.IFrameHandle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
